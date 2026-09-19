@@ -1,6 +1,6 @@
 # 🏦 Python Banking System – Mini Project
 
-**AKTU B.Tech CSE | Python Mini Project | Session 2022–2026**
+ B.Tech CSE | Python Mini Project 
 
 ---
 
